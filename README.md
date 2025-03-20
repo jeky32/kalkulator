@@ -19,7 +19,7 @@ Here's what you need to run Kalkulator:
 
 ## 1. Clone the repository
 ```bash
-  git clone https://github.com/zeusyee/kalkulator.git
+  git clone https://github.com/jeky32/kalkulator.git
   cd calculator
 ```
 ## 2. Run the project
